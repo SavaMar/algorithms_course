@@ -1,5 +1,11 @@
 
-- [ ] Mercury
-- [x] Venus
+- [x] Intro
+- [x] List Based collections
+- [ ] Searching and Sorting
+- [x] Maps and Hashing
+- [x] Trees
+- [ ] Graphs
+- [ ] Case studies and algo
+- [ ] Intervew Techniques
 
-[Emoji](https://gist.github.com/rxaviers/7360908) | [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+[markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
